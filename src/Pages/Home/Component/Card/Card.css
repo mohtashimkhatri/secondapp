@@ -1,0 +1,12 @@
+.Cradmain {
+  width: 95%;
+  padding: 50px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mar{
+    padding-left: 100px;
+    padding-bottom: 10px;
+}

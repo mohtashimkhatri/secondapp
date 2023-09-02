@@ -1,0 +1,82 @@
+.MainNave{
+    height: 10vh !important;
+}
+.text{
+    color: white;
+    font-size: 1.3em;
+}
+.margin{
+    margin-left: 550PX;
+}
+.WordSpacing{
+    gap: 20px;
+}
+.padingWager{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.text:hover{
+color: rgb(228, 76, 76)  ;
+}
+.backgroundimage{
+    width: 100%;
+    height: 90vh;
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.10), rgba(0,0 ,0 , 0.15)),url('../../../Asessts/Header2.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.padingWagera{
+    padding: 175px 0px 0px 10px;
+}
+.heading{
+    font-size: 6em;
+    width: 75%;
+}
+.pading{
+    padding: 20px;
+}
+.heading1{
+    font-size: 3.5rem;
+}
+.backgroundimagdiv{
+    width: 100%;
+    /* height: 90vh ; */
+    background-image: url('https://preview.colorlib.com/theme/fitnessclub/assets/img/gallery/section_bg01.png.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.setting{
+    padding-left: 250px;
+    padding-top: 100px;
+}
+.displaywalisetting{
+    display: flex;
+    justify-content: space-around;
+}
+.heading3{
+    font-size: 4em;
+    font-weight: 800;
+}
+.rounded{
+        height: 400px !important;
+        width: 350px !important;
+    }
+    .okay:hover{
+        
+        transition: all 1s;
+padding-top: 20px;}
+.fotermain{
+    width: 100%;
+    height: 80vh;
+    background-image: url('https://preview.colorlib.com/theme/fitnessclub/assets/img/gallery/section_bg03.png.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px;
+
+}
+.opacty{
+    color: rgb(112, 110, 110);
+}
